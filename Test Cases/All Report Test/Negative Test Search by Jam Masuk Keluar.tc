@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Negative Test Search by Jam Masuk Keluar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e04e2e58-2963-47a6-8390-42a3bad63669</testCaseGuid>
+</TestCaseEntity>

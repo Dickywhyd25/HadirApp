@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search By Name, Date, and Department</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>edd7e6df-5199-413b-bc50-b64a67e4ec24</testCaseGuid>
+</TestCaseEntity>

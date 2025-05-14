@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_ShowPage_Cuti</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99c9431f-3d0f-49c0-98bd-209292f0f669</testCaseGuid>
+</TestCaseEntity>

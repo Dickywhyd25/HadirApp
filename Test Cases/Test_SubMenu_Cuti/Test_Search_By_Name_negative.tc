@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_Search_By_Name_negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90ff1eba-4d99-4b1b-8ce1-498742466c7f</testCaseGuid>
+</TestCaseEntity>

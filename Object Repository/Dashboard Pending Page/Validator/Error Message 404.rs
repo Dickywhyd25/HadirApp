@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Error Message 404</name>
+   <tag></tag>
+   <elementGuidId>d68e1ce7-0752-48c5-9e1c-8911cdbb0670</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.MuiTypography-root.MuiTypography-h1.MuiTypography-alignCenter.css-12so9ra</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>cc9823e8-e424-4398-8f12-42991e87a158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-h1 MuiTypography-alignCenter css-12so9ra</value>
+      <webElementGuid>3d73b249-7be7-400d-a5ba-bc7f4a91d49d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>404</value>
+      <webElementGuid>675808c7-0f76-4f29-9f9b-597a2f629b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;MuiBox-root css-17e0a0a&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthMd css-oavo64&quot;]/h1[@class=&quot;MuiTypography-root MuiTypography-h1 MuiTypography-alignCenter css-12so9ra&quot;]</value>
+      <webElementGuid>0306c38c-e4e7-41de-8192-27ad1acc4680</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/h1</value>
+      <webElementGuid>f053e536-ca1d-4cc1-9d44-7016b0e10b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This page could not be found.'])[1]/preceding::h1[1]</value>
+      <webElementGuid>8be1b631-1452-43d0-be38-649ff1564d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='404']/parent::*</value>
+      <webElementGuid>94b82940-db8f-49ae-8255-6b75d6fcdd23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>1ad4f4e4-6b73-4e4b-ae9c-ab6beee49b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '404' or . = '404')]</value>
+      <webElementGuid>49f10b46-7a53-493e-becb-d93bf4b81ea4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search_By_Writing_Data_Negatif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>71e7828d-434b-488d-8e64-e185920ef355</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ScrollableTableContainer</name>
+   <tag></tag>
+   <elementGuidId>cf9ac30f-fdc8-4738-8fe2-3a68c312176d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiTableContainer-root.css-kge0eu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>df86e452-ee72-421f-9d6b-930dc78dd1b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTableContainer-root css-kge0eu</value>
+      <webElementGuid>020b86bd-d222-4c0c-9f72-e6a37b916925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama KaryawanUnitJam MasukJam KeluarLokasi MasukLokasi KeluarStatusNotes MasukNotes KeluarKelompok3Service Quality06 Mei 202500:06:15-Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeMasuk on-time-</value>
+      <webElementGuid>100221ee-035e-430a-80da-a4ffec149a78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-10f63sf&quot;]/div[@class=&quot;css-11qbmxu&quot;]/div[@class=&quot;MuiContainer-root css-1p62yps&quot;]/div[@class=&quot;MuiBox-root css-76jx17&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-1d3bbye&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-12 css-15j76c0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-oim7up&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-1d88nt7&quot;]/div[@class=&quot;MuiTableContainer-root css-kge0eu&quot;]</value>
+      <webElementGuid>739107a6-6e4b-4cde-88f7-e392faccf18a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>f4603fdf-1eef-45cb-8a38-1100010d90d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::div[4]</value>
+      <webElementGuid>85f163f6-5e74-42be-9fc7-e6038efa4080</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::div[4]</value>
+      <webElementGuid>08edadcf-b9ef-4371-8923-a9b2d08a0278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>bacb963c-d8a7-4aef-915c-62928b307bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nama KaryawanUnitJam MasukJam KeluarLokasi MasukLokasi KeluarStatusNotes MasukNotes KeluarKelompok3Service Quality06 Mei 202500:06:15-Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeMasuk on-time-' or . = 'Nama KaryawanUnitJam MasukJam KeluarLokasi MasukLokasi KeluarStatusNotes MasukNotes KeluarKelompok3Service Quality06 Mei 202500:06:15-Alamat tidak ditemukan, click disini untuk lihat lokasiAlamat tidak ditemukanWork From OfficeMasuk on-time-')]</value>
+      <webElementGuid>9fea4828-ed78-4bee-99a9-c80bd0f5bab3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
