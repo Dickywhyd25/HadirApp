@@ -1,4 +1,4 @@
-# Automation Testing SWAGLABS
+# Automation Testing DIKA WEB
 
 
 - [🔗 **Web yang diuji**](https://magang.dikahadir.com/authentication/login)
